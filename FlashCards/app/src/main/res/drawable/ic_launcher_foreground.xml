@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="130"
+    android:viewportHeight="130">
+    <group
+        android:translateX="14"
+        android:translateY="15">
+        <!-- Back card -->
+        <path
+            android:fillColor="#3A3A3A"
+            android:pathData="M40,32h28c2.2,0 4,1.8 4,4v36c0,2.2 -1.8,4 -4,4h-28c-2.2,0 -4,-1.8 -4,-4v-36c0,-2.2 1.8,-4 4,-4z"/>
+        <!-- Front card -->
+        <path
+            android:fillColor="#E0E0E0"
+            android:pathData="M36,28h28c2.2,0 4,1.8 4,4v36c0,2.2 -1.8,4 -4,4h-28c-2.2,0 -4,-1.8 -4,-4v-36c0,-2.2 1.8,-4 4,-4z"/>
+    </group>
+</vector>

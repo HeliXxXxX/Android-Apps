@@ -1,0 +1,17 @@
+# Build output
+build/
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.iml
+
+# Local config (machine-specific)
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
